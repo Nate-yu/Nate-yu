@@ -1,9 +1,9 @@
 ### Hi there 👋
 <img src="https://github-readme-stats.vercel.app/api?username=Nate-yu" width=50% align="right">
 
-- 🌱 I'm currently learning data structure and English.
+- 🌱 I'm currently learning ML and DL.
 
-- :smile: I'm interested in C++/Python/Java. 
+- :smile: I'm interested in Python/Java/C++. 
 
 - 📫 How to reach me: hut_yubin@163.com
 
